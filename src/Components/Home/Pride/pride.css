@@ -1,0 +1,28 @@
+.pride{
+    background-color:transparent ;
+    text-align:justify;
+    
+   
+}
+
+.pride img{
+    margin: 20px 0px 20px 0px;
+    max-width: 100%;
+    height: auto;
+    /* border: 2px solid black; */
+    background-size: cover;
+    
+}
+.pride h2{
+    margin-top: 60px;
+    color: brown;
+    font-size: 30px;
+    text-align: center;
+}
+.pride button{
+    margin-top: 60px;
+    background-color: brown;
+    width: 150px;
+    height: 50px;
+    color: white;
+}

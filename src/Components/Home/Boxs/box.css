@@ -1,0 +1,52 @@
+.boxs{
+    margin-top: 50px;
+    padding: 25px 0px;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
+.boxs .row:first-child{
+    text-align: center;
+
+}
+.box {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    
+    
+}
+.box span{
+    display: block;
+    margin: 10px;
+    color: green;
+    text-align: left;
+
+}
+.box button{
+    display: block;
+    text-align: left;
+    margin: 10px 0px;
+    background-color: brown;
+    color: white;
+}
+.box h5{
+    margin-top: 10px;
+    font-size: 22px;
+    color: brown;
+    text-align: left;  
+
+}
+.boxs h1{
+    font-size: 40px;
+    font-weight: bold;
+    width: 100%;
+    margin: 10px 0px;
+    color: brown;
+    line-height: 50px;
+}
+.boxs img{
+    max-width: 100%;
+    border-radius: 10px;
+}
